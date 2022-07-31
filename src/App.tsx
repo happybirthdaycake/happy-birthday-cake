@@ -12,6 +12,9 @@ function App() {
   const birthdayCake = [107, 100, 93, 106, 105, 104,103, 102, 101, 94
   ];
 
+
+  const birthdaycakE = [0, 2, 7, 9, 10, 11, 12, 13, 14, 15, 16];
+
   return (
     <>
       <div>
