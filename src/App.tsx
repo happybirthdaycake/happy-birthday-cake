@@ -13,7 +13,7 @@ function App() {
   ];
 
 
-  const birthdaycakE = [0, 2, 7, 9, 10, 11, 12, 13, 14, 15, 16];
+  const birthdaycake = [0, 2, 7, 9, 10, 11, 12, 13, 14, 15, 16];
 
   return (
     <>
