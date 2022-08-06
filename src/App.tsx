@@ -10,11 +10,11 @@ function App() {
     <>               
       <div>    
         < href= "https://vitejs.dev" target="_blank">
-            <img  src={viteLogo} className="logo" alt="Vite logo" />
+             <img  src={viteLogo} className="logo" alt="Vite logo" />
         </ a>
         <a hr ef= "https://react.dev" target="_blank">
           < img src={reactLogo} className="logo react" alt="React logo" />
-        < /a>  
+        <  /a>  
        </d iv>
       <h1>Vite + React</h1>
       <div className=" card">
