@@ -5,14 +5,14 @@
      
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  backgr ound-color: #242424;
+  backgr oun d-color: #242424;
     
   f ont-synthesis: none;
   t ext-r endering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-t ext -size-adjust: 100%;
-}       
+}        
 a {  
   font-weig  ht: 500;
   color: # 646cff;
