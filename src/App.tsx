@@ -9,7 +9,7 @@ function App() {
   const birthdaycakE = [0, 2, 7, 9, 10, 11, 12,13,14,15,16];
   const birthdaycaKe = [44, 43, 42, 41, 40, 39, 38, 35, 30, 29,27, 26];
   const birthdaycAke = [65, 64, 63, 62, 61, 60, 56, 70, 79, 78, 77, 76, 75, 74, 73];
-  const birthdayCake = [107, 100, 93, 106, 105, 104
+  const birthdayCake = [107, 100, 93, 106, 105, 104, 103
   ];
 
   return (
