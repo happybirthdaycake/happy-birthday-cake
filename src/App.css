@@ -9,7 +9,7 @@
   height: 6em;  
   padding: 1.5em;
   will-change: filter;
-  transition: filter  300 ms;
+  transi tion: filter  300 ms;
 }     
 .logo: hove r {
   filter : dro p-shadow(0 0 2em #646cffaa);
