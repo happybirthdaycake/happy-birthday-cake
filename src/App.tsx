@@ -7,7 +7,7 @@ import viteLogo from "/vite.svg";
 function App() {
   const [count, setCount] = useState(0);
   const birthdaycakE = [0, 2, 7, 9, 10, 11, 12,13,14,15,16];
-  const birthdaycaKe = [44, 43, 42,41,40,39,38,35,30,29];
+  const birthdaycaKe = [44, 43, 42,41,40,39,38,35,30,29,27];
 
   return (
     <>
