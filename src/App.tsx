@@ -6,7 +6,7 @@ import viteLogo from "/vite.svg";
 
 function App() {
   const [count, setCount] = useState(0);
-  const arr = [0, 2,7,9,10,11,12,13,14,15,16];
+  const arr = [0, 2, 7,9,10,11,12,13,14,15,16];
   return (
     <>
       <div>
